@@ -12,7 +12,7 @@ let package = Package(
    targets: [
       .binaryTarget(
          name: "YoopSdk",
-         url: "<link to the uploaded XCFramework ZIP file>",
+         url: "https://github.com/enovLAB/yoop-sdk-release/releases/download/v0.0.1/YoopSdk.xcframework.zip",
          checksum:"5951f519d9c42f7b99d1b09a3e0871b23659ccab3fe12c97e5666876e3981b64")
    ]
 )
